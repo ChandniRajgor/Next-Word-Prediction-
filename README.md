@@ -9,7 +9,7 @@ This project demonstrates a simple next-word prediction system using an LSTM neu
 
 - Tokenizes and preprocesses input text
 - Builds a word-based language model using LSTM
-- Predicts the next word given a text sequenc
+- Predicts the next word given a text sequence
 
 ---
 
