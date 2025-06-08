@@ -1,5 +1,5 @@
 # Next-Word-Prediction-
-text prediction model using LSTM and Bidirectional LSTM 
+Text prediction model using LSTM and Bidirectional LSTM 
 
 This project demonstrates a simple next-word prediction system using an LSTM neural network. It takes a sequence of words as input and predicts the most probable next word, trained on a sample corpus.
 
